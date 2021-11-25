@@ -116,7 +116,18 @@
               "src/assets"
             ],
             "styles": [
-              "styles.css"
+              "styles.css",
+              "src/assets/plugins/jquery/jquery.js",
+              "src/assets/js/contact.js",
+              "src/assets/plugins/bootstrap/js/popper.js",
+              "src/assets/plugins/magnific-popup/dist/jquery.magnific-popup.min.js",
+              "src/assets/plugins/slick-carousel/slick/slick.min.js",
+              "src/assets/plugins/counterup/jquery.waypoints.min.js",
+              "src/assets/plugins/counterup/jquery.counterup.min.js",
+              "src/assets/plugins/google-map/map.js",
+              "src/assets/js/script.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+        
               
             ],
             "scripts": []
