@@ -116,7 +116,7 @@
               "src/assets"
             ],
             "styles": [
-              "styles.css",
+              "src/styles.css",
               "src/assets/plugins/jquery/jquery.js",
               "src/assets/js/contact.js",
               "src/assets/plugins/bootstrap/js/popper.js",
